@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476471220568",
+    "project_id": "light-tribute-354810",
+    "storage_bucket": "light-tribute-354810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476471220568:android:3abb61881ef9bddac9ad2d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_use"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476471220568-2s6ifap07ksldl46efgq12qaeadiqm15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsKny2IwHuUAAFjT0u4V-Jal-jC34tlFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476471220568-2s6ifap07ksldl46efgq12qaeadiqm15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
